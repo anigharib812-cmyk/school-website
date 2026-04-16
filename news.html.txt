@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="hy">
+<head>
+<meta charset="UTF-8">
+<title>Նորություններ</title>
+
+<style>
+body {
+    font-family: sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    text-align: center;
+}
+
+/* HEADER */
+header {
+    background: linear-gradient(45deg, #4a90e2, #357abd);
+    color: white;
+    padding: 25px;
+}
+
+/* NAV */
+nav {
+    background: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffdb58;
+}
+
+/* ԱԿՏԻՎ ԷՋ */
+nav a.active {
+    color: #ffdb58;
+    border-bottom: 2px solid #ffdb58;
+}
+
+/* CONTAINER */
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+/* CARD */
+.card {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    margin: 15px;
+    padding: 20px;
+    width: 280px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* IMAGE */
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* DATE */
+.card small {
+    display: block;
+    color: gray;
+    margin: 10px 0;
+}
+
+/* BUTTON */
+button {
+    margin-top: 10px;
+    background: #4a90e2;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #357abd;
+}
+
+/* FOOTER */
+footer {
+    background: #333;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+    <h1>Նորություններ</h1>
+</header>
+
+<nav>
+    <a href="index.html">Գլխավոր</a>
+    <a href="about.html">Մեր մասին</a>
+    <a href="teachers.html">Ուսուցիչներ</a>
+    <a href="news.html" class="active">Նորություններ</a>
+    <a href="contact.html">Կապ</a>
+</nav>
+
+<section class="container">
+ <div class="card">
+        <h3>Օլիմպիադա</h3>
+        <small>📅 2025-2026 թթ</small>
+        <p>Մեր աշակերտները մասնակցեցին առարկայական օլիմպիադաների դպրոցական և մարզային փուլերին՝ գրանցելով բարձր արդյունքներ։</p>
+        <button>Կարդալ ավելին</button>
+    </div>
+   
+ <div class="card">
+        <h3>Մարտի 8-ին նվիրված միջոցառում</h3>
+        <small>📅08 մարտ, 07 ապրիլ 2026</small>
+        <p>Մարտի 8-ին և ապրիլի 7-ին դպրոցում անցկացվեցին մի շարք միջոցառումներ</p>
+        <button>Կարդալ ավելին</button>
+    </div>
+ <div class="card">
+        <h3>Զատկի տոնին նվիրված միջոցառում</h3>
+        <small>📅 01 ապրիլ 2026</small>
+        <p>Զատկի տոնին ընդառաջ՝ դպրոցում անցկացվեց ցուցահանդես-տոնավաճառ։</p>
+        <button>Կարդալ ավելին</button>
+    </div>
+   
+<div class="card">
+        <h3>Վերջին Զանգ</h3>
+        <small>📅22 մայիս 2026</small>
+        <p>9-րդ դասարանի սովորողները առաջիկայում պատրաստվում են իրենց Վերջին Զանգի արարողությանը։</p>
+        <button>Կարդալ ավելին</button>
+    </div>
+
+</section>
+
+<footer>
+    © 2026 Իմ դպրոցը
+</footer>
+
+</body>
+</html>
