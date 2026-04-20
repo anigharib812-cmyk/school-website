@@ -128,7 +128,7 @@ footer {
 
     <div class="teacher-card">
         <h3>Անահիտ Շողերյան</h3>
-        <p>Հայոց լեզու,գրականություն</p>
+        <p>Հայոց լեզու և գրականություն</p>
     </div>
 
     <div class="teacher-card">
