@@ -98,7 +98,7 @@ footer {
 
     <div class="teacher-card">
         <h3>Գոհար Պետրոսյան</h3>
-        <p>Փոխտնօրեն</p>
+        <p>Փոխտնօրեն,ՈՒԳ</p>
     </div>
 
     <div class="teacher-card">
@@ -128,7 +128,7 @@ footer {
 
     <div class="teacher-card">
         <h3>Անահիտ Շողերյան</h3>
-        <p>Հայոց լեզու</p>
+        <p>Հայոց լեզու,գրականություն</p>
     </div>
 
     <div class="teacher-card">
