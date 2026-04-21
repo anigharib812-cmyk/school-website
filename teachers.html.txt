@@ -103,7 +103,7 @@ footer {
 
     <div class="teacher-card">
         <h3>Մարինե Վիրաբյան</h3>
-        <p>Փոխտնօրեն, ԴԱԿ</p>
+        <p>Փոխտնօրեն, ՄԿԱ</p>
     </div>
 
     <div class="teacher-card">
