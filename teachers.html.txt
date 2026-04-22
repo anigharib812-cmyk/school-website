@@ -98,12 +98,12 @@ footer {
 
     <div class="teacher-card">
         <h3>Գոհար Պետրոսյան</h3>
-        <p>Փոխտնօրեն,ՈՒԳ</p>
+        <p>Տնօրենի տեղակալ</p>
     </div>
 
     <div class="teacher-card">
         <h3>Մարինե Վիրաբյան</h3>
-        <p>Փոխտնօրեն, ՄԿԱ</p>
+        <p>ՄԿԱ գծով տեղակալ</p>
     </div>
 
     <div class="teacher-card">
@@ -238,7 +238,7 @@ footer {
 
     <div class="teacher-card">
         <h3>Հայարփի Մխիթարյան</h3>
-        <p>Օպերատոր</p>
+        <p>ԷԿԴԱՄ</p>
     </div>
 
     <div class="teacher-card">
