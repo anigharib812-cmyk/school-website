@@ -258,7 +258,7 @@ footer {
 
     <div class="teacher-card">
         <h3>Անժելա Շահջանյան</h3>
-        <p>Հոգեբան</p>
+        <p>Ուսուցչի օգնական</p>
     </div>
 
     <div class="teacher-card">
